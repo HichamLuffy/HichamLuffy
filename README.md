@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hicham
-#### I am GitHub Readme Generator's creator
+![Profile views](https://gpvc.arturio.dev/HichamLuffy)  
 
 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 
@@ -14,5 +14,3 @@ Skills: C / C++ / Python / shell / ....
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/HichamLuffy)  
