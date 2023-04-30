@@ -1,9 +1,9 @@
-### <img src="https://media.giphy.com/media/ffvJ4xfAniFoqHUQoO/giphy.gif"> Hi there 👋, my name is Hicham
+##### Hi there 👋, my name is Hicham
 ![Profile views](https://gpvc.arturio.dev/HichamLuffy)  
 
-Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
+## Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 
-[<img src='https://giphy.com/embed/lzrICyhNZkSCvNNKyP'>] Skills: C / C++ / Python / shell / ....
+[<img src='https://giphy.com/embed/u0crBk0ZMG7o4'>] Skills: C / C++ / Python / shell / ....
 
 - 📫 How to reach me: imalxvssteve2020@gmail.com  I'll try to respond as soon as possible!\ 
 - ⚡ Fun fact: When I was a child, I dreamed of creating my own video game. Now, as a programming student, I'm learning the skills to turn that dream into a reality and bring my own games to life on the screen 
