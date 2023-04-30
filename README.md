@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/HichamLuffy)  
 
 # Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
-<img src="[https://media.giphy.com/media/ffvJ4xfAniFoqHUQoO/giphy.gif](https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif)">
+## <img src="[https://media.giphy.com/media/ffvJ4xfAniFoqHUQoO/giphy.gif](https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif)">
 
 # Skills: C / C++ / Python / shell / ....
 
