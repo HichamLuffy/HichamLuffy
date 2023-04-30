@@ -1,4 +1,4 @@
-### [<img src='https://giphy.com/embed/ffvJ4xfAniFoqHUQoO'>] Hi there 👋, my name is Hicham
+### <img src="https://media.giphy.com/media/ffvJ4xfAniFoqHUQoO/giphy.gif"> Hi there 👋, my name is Hicham
 ![Profile views](https://gpvc.arturio.dev/HichamLuffy)  
 
 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
