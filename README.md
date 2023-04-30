@@ -2,8 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/HichamLuffy)  
 
 # Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
-## <img src="[https://media.giphy.com/media/ffvJ4xfAniFoqHUQoO/giphy.gif](https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif)">
-
+[<img rc="[https://media.giphy.com/media/ffvJ4xfAniFoqHUQoO/giphy.gif]
 # Skills: C / C++ / Python / shell / ....
 
 - 📫 How to reach me: imalxvssteve2020@gmail.com  I'll try to respond as soon as possible!\ 
