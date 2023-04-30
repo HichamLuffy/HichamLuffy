@@ -4,6 +4,8 @@
 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 <img src="https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif">
  
+ 👀ABOUT ME:
+ 
  Skills: C / C++ / Python / shell / ....
 
 - 📫 How to reach me: imalxvssteve2020@gmail.com  I'll try to respond as soon as possible!\ 
