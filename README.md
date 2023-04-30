@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Hicham
+### <iframe src="https://giphy.com/embed/ffvJ4xfAniFoqHUQoO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hat-luffy-lllbeam-ffvJ4xfAniFoqHUQoO">via GIPHY</a></p> Hi there 👋, my name is Hicham
 ![Profile views](https://gpvc.arturio.dev/HichamLuffy)  
 
 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 
-Skills: C / C++ / Python / shell / ....
+<iframe src="https://giphy.com/embed/lzrICyhNZkSCvNNKyP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/one-piece-ace-luffy-lzrICyhNZkSCvNNKyP">via GIPHY</a></p> Skills: C / C++ / Python / shell / ....
 
 - 📫 How to reach me: imalxvssteve2020@gmail.com  I'll try to respond as soon as possible!\ 
 - ⚡ Fun fact: When I was a child, I dreamed of creating my own video game. Now, as a programming student, I'm learning the skills to turn that dream into a reality and bring my own games to life on the screen 
