@@ -2,13 +2,12 @@
 ![Profile views](https://gpvc.arturio.dev/HichamLuffy)  
 
 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
-<img src="https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif">
+<img src="https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif" align="left"/>
  
  👀ABOUT ME:
  
  Skills: C / C++ / Python / shell / ....
-
-
+ 
 - 📫 How to reach me: imalxvssteve2020@gmail.com  I'll try to respond as soon as possible!\ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HichamLuffy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hicham-fhad-7b9070263//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hichamm.fohadd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abo._luffy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/D_Hicham2k)  
