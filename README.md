@@ -1,11 +1,11 @@
 ## <img alt="handwavegif" src="https://media.giphy.com/media/VCN0UfVCNN064/giphy.gif" width='40' align="left"/> Hi there 👋, my name is Hicham
-
+![Profile views](https://gpvc.arturio.dev/HichamLuffy)
 <img src="https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif">
 
 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
  
  👀ABOUT ME:
- 
+ <img src="https://media3.giphy.com/media/9ld0KGQmd2WLyLRsSR/giphy.gif?cid=ecf05e47lrn6e96fawpjuvv6tmuful9yuf6sx6zpq6qkgefh&ep=v1_stickers_search&rid=giphy.gif&ct=s">
  Skills: C / C++ / Python / shell / ....
  
 - 📫 How to reach me: imalxvssteve2020@gmail.com  I'll try to respond as soon as possible!\ 
