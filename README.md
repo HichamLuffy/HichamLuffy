@@ -3,7 +3,7 @@
 
 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 
-<img src="https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif">
+<img src="[https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif](https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif)">
 
  
  👀ABOUT ME:
