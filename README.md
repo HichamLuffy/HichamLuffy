@@ -1,5 +1,10 @@
 ## <img alt="handwavegif" src="https://media.giphy.com/media/VCN0UfVCNN064/giphy.gif" width='40' align="left"/> Hi there 👋, my name is Hicham
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20views&color=0e75b6&style=flat" alt="hichamluffy" /> </p>
+<p align="left">
+<p align="left">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20views&color=0e75b6&style=flat&animation=blink" alt="hichamluffy" />
+</p>
 
 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 
