@@ -1,4 +1,4 @@
-## <img alt="handwavegif" src="https://media.giphy.com/media/VCN0UfVCNN064/giphy.gif" width='40' align="left"/> Hi there 👋, my name is Hicham
+## <img alt="handwavegif" src="https://media.giphy.com/media/VCN0UfVCNN064/giphy.gif" width='40' align="left"/> Hi there 👋 my name is Hicham
 <p align="left">
 <p align="left">
 
