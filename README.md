@@ -19,7 +19,6 @@ Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HichamLuffy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hicham-fhad-7b9070263//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hichamm.fohadd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abo._luffy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/D_Hicham2k)  
 - ⚡ Fun fact: When I was a child, I dreamed of creating my own video game. Now, as a programming student, I'm learning the skills to turn that dream into a reality and bring my own games to life on the screen 
  
- ![Snake animation](https://github.com/HichamLuffy/HichamLuffy/blob/output/github-contribution-grid-snake.svg)
 
 # GitHub Stats
 
@@ -43,6 +42,7 @@ Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HichamLuffy&repo=alx-system_engineering-devops&theme=radical)](https://github.com/HichamLuffy/alx-system_engineering-devops)
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HichamLuffy/HichamLuffy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HichamLuffy/HichamLuffy/output/github-contribution-grid-snake.svg">
@@ -50,3 +50,4 @@ Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 </picture>
 
 ![snake gif](https://github.com/HichamLuffy/HichamLuffy/blob/output/github-contribution-grid-snake.gif)
+
