@@ -10,9 +10,11 @@
   <a href="https://discord.gg/2UFgb82G"><img src="https://img.shields.io/discord/1120664601059659806?color=blue&label=Discord&logo=discord&logoColor=white" alt="Discord Server"></a>
 </p>
 
-### 🚀 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
+### <p align= "center">🚀 We Code Onward ♥
 
-<img src="https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif">
+<p align= "center">
+  <img src="https://media.giphy.com/media/PmLSyM6uVcY0na0yiZ/giphy.gif">
+</p>
 
 ### 👀 ABOUT ME:
 
