@@ -2,12 +2,13 @@
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20views&color=0e75b6&style=flat&animation=blink" alt="hichamluffy" />
+  <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20views&color=0e75b6&style=flat&animation=blink" alt="hichamluffy" />
   <a href="https://www.instagram.com/i.mluffy/"><img src="https://img.shields.io/badge/Followers-82-orange?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Followers"></a>
   <a href="https://www.youtube.com/@iiHicham2k/"><img src="https://img.shields.io/badge/Subscribers-3.69k-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Subscribers"></a>
+</p>
+<p align= "center">
   <a href="https://discord.gg/2UFgb82G"><img src="https://img.shields.io/discord/1120664601059659806?color=blue&label=Discord&logo=discord&logoColor=white" alt="Discord Server"></a>
 </p>
-
 ### 🚀 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 
 <img src="https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif">
@@ -46,4 +47,3 @@
 
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HichamLuffy/HichamLuffy/output/github-contribution-grid-snake.svg">
-
