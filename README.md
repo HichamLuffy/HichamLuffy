@@ -42,7 +42,7 @@ Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HichamLuffy&repo=alx-system_engineering-devops&theme=radical)](https://github.com/HichamLuffy/alx-system_engineering-devops)
 
-
+# GitHub Contribution Grid Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HichamLuffy/HichamLuffy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HichamLuffy/HichamLuffy/output/github-contribution-grid-snake.svg">
