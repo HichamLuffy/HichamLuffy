@@ -9,6 +9,7 @@
 <p align= "center">
   <a href="https://discord.gg/2UFgb82G"><img src="https://img.shields.io/discord/1120664601059659806?color=blue&label=Discord&logo=discord&logoColor=white" alt="Discord Server"></a>
 </p>
+
 ### 🚀 Transforming Ideas into Reality: Entrepreneur with a Passion for Innovation.
 
 <img src="https://media.giphy.com/media/u0crBk0ZMG7o4/giphy.gif">
