@@ -6,9 +6,7 @@
   <a href="https://www.instagram.com/i.mluffy/"><img src="https://img.shields.io/badge/Followers-82-orange?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Followers"></a>
   <a href="https://www.youtube.com/@iiHicham2k/"><img src="https://img.shields.io/badge/Subscribers-3.69k-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Subscribers"></a>
 </p>
-<p align= "center">
-  <a href="https://discord.gg/2UFgb82G"><img src="https://img.shields.io/discord/1120664601059659806?color=blue&label=Discord&logo=discord&logoColor=white" alt="Discord Server"></a>
-</p>
+
 
 ### <p align= "center">🚀 We Code Onward ♥
 
@@ -18,10 +16,15 @@
 
 ### 👀 ABOUT ME:
 
-- Skills: C / C++ / Python / Shell / ... <img src="https://media3.giphy.com/media/9ld0KGQmd2WLyLRsSR/giphy.gif?cid=ecf05e47lrn6e96fawpjuvv6tmuful9yuf6sx6zpq6qkgefh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width='40' align="left">
+- Skills: C / C++ / Python / Shell / HTML/ CSS ... <img src="https://media3.giphy.com/media/9ld0KGQmd2WLyLRsSR/giphy.gif?cid=ecf05e47lrn6e96fawpjuvv6tmuful9yuf6sx6zpq6qkgefh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width='40' align="left">
   
-- 📫 How to reach me: imalxvssteve2020@gmail.com  
-  Connect with me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/HichamLuffy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hicham-fhad-7b9070263//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/D_Hicham2k)  
+- 📧 Contact Information: imalxvssteve2020@gmail.com  
+- 🔗 Connect with me:
+  - GitHub: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/HichamLuffy)
+  - LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hicham-fhad-7b9070263//)
+  - Twitter: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/D_Hicham2k)
+
+  
 
 - ⚡ Fun fact: As a programming student, I'm on a journey to turn my childhood dream of creating video games into reality!
 
