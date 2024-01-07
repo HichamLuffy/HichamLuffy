@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/PmLSyM6uVcY0na0yiZ/giphy.gif">
 </p>
 
-### <p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👀 ABOUT ME:
+### <p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👀 ABOUT ME:
 
 
 | Email                     | GitHub                              | LinkedIn                                        | Twitter                                        |
