@@ -19,7 +19,7 @@
 
 | Email                     | GitHub                              | LinkedIn                                        | Twitter                                        |
 | -------------------------- | ----------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| [Emailme](mailto:imalxvssteve2020@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat&logo=github)](https://github.com/HichamLuffy) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hicham-fhad-7b9070263/) | [![Twitter](https://img.shields.io/badge/Twitter-Profile-lightblue?style=flat&logo=twitter)](https://twitter.com/D_Hicham2k) |
+| [![Email](https://img.shields.io/badge/Email-%40me-red?style=flat&logo=gmail)](mailto:imalxvssteve2020@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat&logo=github)](https://github.com/HichamLuffy) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hicham-fhad-7b9070263/) | [![Twitter](https://img.shields.io/badge/Twitter-Profile-lightblue?style=flat&logo=twitter)](https://twitter.com/D_Hicham2k) |
 
 
 ### GitHub Stats
