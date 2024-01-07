@@ -16,18 +16,16 @@
 
 ### 👀 ABOUT ME:
 
-- Skills: C / C++ / Python / Shell / HTML/ CSS ... <img src="https://media3.giphy.com/media/9ld0KGQmd2WLyLRsSR/giphy.gif?cid=ecf05e47lrn6e96fawpjuvv6tmuful9yuf6sx6zpq6qkgefh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width='40' align="left">
+<img src="https://media3.giphy.com/media/9ld0KGQmd2WLyLRsSR/giphy.gif?cid=ecf05e47lrn6e96fawpjuvv6tmuful9yuf6sx6zpq6qkgefh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width='40' align="left">
   
-- 📧 Contact Information: imalxvssteve2020@gmail.com  
-- 🔗 Connect with me:
-  - GitHub: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/HichamLuffy)
-  - LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hicham-fhad-7b9070263//)
-  - Twitter: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/D_Hicham2k)
+- [Email me](mailto:imalxvssteve2020@gmail.com)
 
-  
 
-- ⚡ Fun fact: As a programming student, I'm on a journey to turn my childhood dream of creating video games into reality!
 
+
+| Skills                     | GitHub                              | LinkedIn                                        | Twitter                                        |
+| -------------------------- | ----------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| C / C++ / Python / Shell / HTML/ CSS | [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat&logo=github)](https://github.com/HichamLuffy) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hicham-fhad-7b9070263/) | [![Twitter](https://img.shields.io/badge/Twitter-Profile-lightblue?style=flat&logo=twitter)](https://twitter.com/D_Hicham2k) |
 
 
 ### GitHub Stats
