@@ -19,15 +19,15 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=radical" />
 </div>
 
 
 ### Streak Stats
-<div style="display: flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HichamLuffy&theme=radical"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=radical" />
-</div>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HichamLuffy&theme=radical)
+
 ### Trophy Stats
 
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=HichamLuffy&theme=radical)
