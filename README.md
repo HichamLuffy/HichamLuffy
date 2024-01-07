@@ -8,16 +8,14 @@
 </p>
 
 
-### <p align= "center">🚀 We Code Onward ♥
+### <p align= "center"> 🚀 We Code Onward ♥
 
 <p align= "center">
   <img src="https://media.giphy.com/media/PmLSyM6uVcY0na0yiZ/giphy.gif">
 </p>
 
-### 👀 ABOUT ME:
+### <p align= "center"> 👀 ABOUT ME:
 
-
-  
 
 | Email                     | GitHub                              | LinkedIn                                        | Twitter                                        |
 | -------------------------- | ----------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
