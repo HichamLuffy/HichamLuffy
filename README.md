@@ -18,13 +18,11 @@
 | [![Email](https://img.shields.io/badge/Email-%40me-red?style=flat&logo=gmail)](mailto:imalxvssteve2020@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat&logo=github)](https://github.com/HichamLuffy) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hicham-fhad-7b9070263/) | [![Twitter](https://img.shields.io/badge/Twitter-Profile-lightblue?style=flat&logo=twitter)](https://twitter.com/D_Hicham2k) | [![Instagram Followers](https://img.shields.io/badge/Followers-82-orange?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i.mluffy/) | [![YouTube Subscribers](https://img.shields.io/badge/Subscribers-3.69k-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@iiHicham2k/) |
 
 
-### GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=radical" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=radical)
 
 ### Streak Stats
 
