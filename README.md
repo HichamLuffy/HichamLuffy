@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20views&color=0e75b6&style=flat&animation=blink" alt="hichamluffy" />
+  <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20views&color=006400&style=flat&animation=blink" alt="hichamluffy" />
 </p>
 
 
