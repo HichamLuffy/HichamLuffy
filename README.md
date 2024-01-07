@@ -19,8 +19,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=radical" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=radical" />
 </div>
 
 
