@@ -30,7 +30,7 @@
 
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=HichamLuffy&theme=radical)
 
-### GitHub Extra Pins
+### GitHub Extra Pin
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HichamLuffy&repo=alx-system_engineering-devops&theme=radical)](https://github.com/HichamLuffy/alx-system_engineering-devops)
 
