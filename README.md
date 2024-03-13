@@ -1,27 +1,22 @@
 <h1 align="center">Hi there, I'm Hicham 👋</h1>
-<table>
-  <tr>
-    <td>
-      <p align="right">
-        <img src="https://images.beta.cosmos.so/71f32a78-44f0-4f2e-8583-6fb28eba084c?format=jpeg" width="400">
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20Views&color=0e75b6&style=flat-square&animation=blink" alt="hichamluffy" /><br>
-        <!-- Repo Size Badge -->
-        <img src="https://img.shields.io/github/repo-size/hichamluffy/website-project?style=flat-square&color=important" alt="Repo Size"/><br>
-        <!-- Number of Languages Badge -->
-        <img src="https://img.shields.io/github/languages/count/hichamluffy/website-project?style=flat-square&color=yellowgreen" alt="Languages Count"/><br>
-        <!-- Last Commit Badge -->
-        <img src="https://img.shields.io/github/last-commit/hichamluffy/website-project?style=flat-square&color=blueviolet" alt="Last Commit"/><br>
-        <!-- Donation Link -->
-        <a href="https://streamlabs.com/aboluffy_/tip"><img src="https://img.shields.io/badge/Donate-Support%20Me-green.svg?style=flat-square&logo=streamlabs" alt="Donate via Streamlabs"/></a>
-      </p>
-      <h3 align="center">🚀 Coding with Passion & Creativity 💖</h3>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20Views&color=0e75b6&style=flat-square&animation=blink" alt="hichamluffy" />
+  <!-- Repo Size Badge -->
+  <img src="https://img.shields.io/github/repo-size/hichamluffy/website-project?style=flat-square&color=important" alt="Repo Size"/>
+  <!-- Number of Languages Badge -->
+  <img src="https://img.shields.io/github/languages/count/hichamluffy/website-project?style=flat-square&color=yellowgreen" alt="Languages Count"/>
+  <!-- Last Commit Badge -->
+  <img src="https://img.shields.io/github/last-commit/hichamluffy/website-project?style=flat-square&color=blueviolet" alt="Last Commit"/>
+  <!-- Donation Link -->
+  <a href="https://streamlabs.com/aboluffy_/tip"><img src="https://img.shields.io/badge/Donate-Support%20Me-green.svg?style=flat-square&logo=streamlabs" alt="Donate via Streamlabs"/></a>
+</p>
+
+<h3 align="center">🚀 Coding with Passion & Creativity 💖</h3>
+
+<p align="center">
+  <img src="https://images.beta.cosmos.so/71f32a78-44f0-4f2e-8583-6fb28eba084c?format=jpeg" width="400">
+</p>
 
 <p align="center">
   <a href="mailto:imalxvssteve2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
