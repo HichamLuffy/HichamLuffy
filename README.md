@@ -43,11 +43,12 @@
 
 
 ### 📌 Featured Project
+<p align="center">
   <!-- Number of Languages Badge -->
   <img src="https://img.shields.io/github/languages/count/hichamluffy/website-project?style=flat-square&color=yellowgreen" alt="Languages Count"/>
   <!-- Repo Size Badge -->
   <img src="https://img.shields.io/github/repo-size/hichamluffy/website-project?style=flat-square&color=important" alt="Repo Size"/>
-
+</p>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HichamLuffy&repo=website-project&theme=highcontrast)](https://github.com/HichamLuffy/website-project)
 
 
