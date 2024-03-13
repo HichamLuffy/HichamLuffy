@@ -2,10 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20Views&color=0e75b6&style=flat-square&animation=blink" alt="hichamluffy" />
-  <!-- Repo Size Badge -->
-  <img src="https://img.shields.io/github/repo-size/hichamluffy/website-project?style=flat-square&color=important" alt="Repo Size"/>
-  <!-- Number of Languages Badge -->
-  <img src="https://img.shields.io/github/languages/count/hichamluffy/website-project?style=flat-square&color=yellowgreen" alt="Languages Count"/>
   <!-- Last Commit Badge -->
   <img src="https://img.shields.io/github/last-commit/hichamluffy/website-project?style=flat-square&color=blueviolet" alt="Last Commit"/>
   <!-- Donation Link -->
@@ -45,7 +41,12 @@
 </table>
 
 
+
 ### 📌 Featured Project
+  <!-- Number of Languages Badge -->
+  <img src="https://img.shields.io/github/languages/count/hichamluffy/website-project?style=flat-square&color=yellowgreen" alt="Languages Count"/>
+  <!-- Repo Size Badge -->
+  <img src="https://img.shields.io/github/repo-size/hichamluffy/website-project?style=flat-square&color=important" alt="Repo Size"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HichamLuffy&repo=website-project&theme=highcontrast)](https://github.com/HichamLuffy/website-project)
 
