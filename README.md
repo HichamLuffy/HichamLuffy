@@ -1,11 +1,15 @@
 <h1 align="center">Hi there, I'm Hicham 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VCN0UfVCNN064/giphy.gif" width="50">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20Views&color=0e75b6&style=flat-square&animation=blink" alt="hichamluffy" />
+  <!-- Repo Size Badge -->
+  <img src="https://img.shields.io/github/repo-size/hichamluffy/website-project?style=flat-square&color=important" alt="Repo Size"/>
+  <!-- Number of Languages Badge -->
+  <img src="https://img.shields.io/github/languages/count/hichamluffy/website-project?style=flat-square&color=yellowgreen" alt="Languages Count"/>
+  <!-- Last Commit Badge -->
+  <img src="https://img.shields.io/github/last-commit/hichamluffy/website-project?style=flat-square&color=blueviolet" alt="Last Commit"/>
+  <!-- Donation Link -->
+  <a href="https://streamlabs.com/aboluffy_/tip"><img src="https://img.shields.io/badge/Donate-Support%20Me-green.svg?style=flat-square&logo=streamlabs" alt="Donate via Streamlabs"/></a>
 </p>
 
 <h3 align="center">🚀 Coding with Passion & Creativity 💖</h3>
@@ -24,27 +28,20 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true&theme=tokyonight&hide_border=true" height="150em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=tokyonight&hide_border=true" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true&theme=highcontrast&hide_border=true" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=highcontrast&hide_border=true" height="150em"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamLuffy&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamLuffy&theme=highcontrast&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HichamLuffy&theme=nord&no-frame=true"/>
-</div>
 
 ### 📌 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HichamLuffy&repo=alx-system_engineering-devops&theme=tokyonight)](https://github.com/HichamLuffy/alx-system_engineering-devops)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HichamLuffy&repo=website-project&theme=highcontrast)](https://github.com/HichamLuffy/website-project)
 
-### 🐍 Contribution Snake
 
-<div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HichamLuffy/HichamLuffy/output/github-contribution-grid-snake.svg">
-</div>
 
 ## 🛠 Languages and Tools
 
@@ -68,3 +65,10 @@ I'm skilled in a variety of programming languages, frameworks, and design tools.
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
+
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HichamLuffy/HichamLuffy/output/github-contribution-grid-snake.svg">
+</div>
