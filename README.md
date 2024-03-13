@@ -14,9 +14,6 @@
 
 <h3 align="center">🚀 Coding with Passion & Creativity 💖</h3>
 
-<p align="center">
-  <img src="https://images.beta.cosmos.so/71f32a78-44f0-4f2e-8583-6fb28eba084c?format=jpeg" width="400">
-</p>
 
 <p align="center">
   <a href="mailto:imalxvssteve2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
@@ -27,14 +24,25 @@
   <a href="https://www.youtube.com/@iiHicham2k/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HichamLuffy&show_icons=true&theme=highcontrast&hide_border=true" height="150em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=highcontrast&hide_border=true" height="150em"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamLuffy&theme=highcontrast&hide_border=true"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamLuffy&theme=highcontrast&hide_border=true"/><br>
+        <!-- Repo Size Badge -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLuffy&layout=compact&theme=highcontrast&hide_border=true" height="150em"/><br>
+        <!-- Number of Languages Badge -->
+        <img <img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamLuffy&theme=highcontrast&hide_border=true"/><br>
+      </p>
+    </td>
+    <td>
+      <p align="right">
+        <img src="https://images.beta.cosmos.so/71f32a78-44f0-4f2e-8583-6fb28eba084c?format=jpeg" width="400">
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ### 📌 Featured Project
