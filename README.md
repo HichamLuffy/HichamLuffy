@@ -8,7 +8,7 @@
   <a href="https://streamlabs.com/aboluffy_/tip"><img src="https://img.shields.io/badge/Donate-Support%20Me-green.svg?style=flat-square&logo=streamlabs" alt="Donate via Streamlabs"/></a>
 </p>
 
-<h3 align="center">🚀 Coding with Passion & Creativity 💖</h3>
+<h3 align="center">🚀 Coding with Passion & Creativity 💖💖</h3>
 
 
 <p align="center">
