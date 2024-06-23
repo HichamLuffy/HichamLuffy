@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hicham 👋</h1>
+<h1 align="center"> I'm Hicham 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hichamluffy&label=Profile%20Views&color=0e75b6&style=flat-square&animation=blink" alt="hichamluffy" />
