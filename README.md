@@ -66,7 +66,7 @@
 </div>
 
 ## 🎵 Currently Vibing To
-[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31qnlyked34gvss46ee7vgvpuecy)
+[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://https://open.spotify.com/user/31qnlyked34gvss46ee7vgvpuecy)
 
 ## 📈 Contribution Graph
 
