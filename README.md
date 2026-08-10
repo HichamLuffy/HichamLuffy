@@ -42,7 +42,7 @@
 
 ### 🎨 Design & Editing
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr,ai&theme=dark" />
 
 <br>
 
