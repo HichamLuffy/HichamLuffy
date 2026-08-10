@@ -40,9 +40,13 @@
 
 <td align="center" width="50%">
 
-### 🔧 Tools
+### 🎨 Design & Editing
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 
 </td>
 </tr>
@@ -77,17 +81,7 @@ I'm a developer from Morocco focused on backend and full-stack development.
 
 </div>
 
-<td align="center">
 
-### 🎨 Design & Editing
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr&theme=dark" />
-
-<br>
-
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-
-</td>
 
 ## 📊 GitHub Stats & Activity
 
