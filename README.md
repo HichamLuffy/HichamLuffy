@@ -5,23 +5,52 @@
 [![Last Commit](https://img.shields.io/github/last-commit/hichamluffy/website-project?style=flat-square&color=blueviolet)](https://github.com/HichamLuffy)
 
 > *Turning coffee into code and dreams into reality* ☕✨
+> 
+## 🛠️ Skills & Tools
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react,fastapi,flask,postgres,mysql,redis,docker,nginx,git,github&theme=dark" />
+### 👨‍💻 Languages
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr&theme=dark" />
+</td>
 
-<br>
+<td align="center" width="50%">
 
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,fastapi,flask&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🗄️ Database & DevOps
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx&theme=dark" />
+
+</td>
+
+<td align="center" width="50%">
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+
+</td>
+</tr>
+
+</table>
 
 </div>
-
-
+</div>
 </div>
 
 ## 🚀 About Me
@@ -47,6 +76,18 @@ I'm a developer from Morocco focused on backend and full-stack development.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iiHicham2k/)
 
 </div>
+
+<td align="center">
+
+### 🎨 Design & Editing
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+
+</td>
 
 ## 📊 GitHub Stats & Activity
 
