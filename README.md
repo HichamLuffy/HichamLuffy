@@ -7,17 +7,35 @@
 > *Turning coffee into code and dreams into reality* ☕✨
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,c,flask,mysql,figma,ps,ae,pr&theme=dark" />
+
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react,fastapi,flask,postgres,mysql,redis,docker,nginx,git,github&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr&theme=dark" />
+
+<br>
+
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
+
 </div>
+
 
 </div>
 
 ## 🚀 About Me
 
-- 🎯 Full Stack Developer passionate about creating elegant solutions
-- 🌱 Currently exploring new technologies and frameworks
-- 💡 Love turning ideas into reality through code
-- 🎨 Blending creativity with technical expertise
+I'm a developer from Morocco focused on backend and full-stack development.
+
+- 💻 Backend development with Python, Flask, Django, and Node.js
+- 🌐 Building full-stack applications with React, TypeScript, HTML & CSS
+- 🗄️ Working with PostgreSQL, MySQL, MongoDB, and Redis
+- 🐳 Using Docker and Nginx to build and deploy applications
+- 🔐 Interested in APIs, authentication, databases, networking, and system architecture
+- 🎨 Combining development with UI/UX and video editing
+- 🎬 Creating and editing content with DaVinci Resolve, After Effects, and Premiere Pro
+- 🌱 Currently learning, building projects, and pushing my backend skills further
 
 <div align="center">
 
@@ -43,27 +61,6 @@
   
 </div>
 
-## 🎯 Skills & Tools
-
-<div align="center">
-
-### 💻 Programming & Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🎨 Design & Creative
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)
-![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=black)
-![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=black)
-
-</div>
 <!-- 
 ## 🎵 Currently Vibing To
 [![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://https://open.spotify.com/user/31qnlyked34gvss46ee7vgvpuecy) -->
